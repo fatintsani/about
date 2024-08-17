@@ -5,7 +5,7 @@
   [![Linktree](https://img.shields.io/badge/Visit-Linktree-blue?style=flat&logo=linktree&color=00B87C)](https://linktr.ee/fatintsani)
   [![Email](https://img.shields.io/badge/Email-fatintsani231@gmail.com-red?style=flat&logo=gmail&color=EA4335)](mailto:fatintsani231@gmail.com)
   [![WhatsApp](https://img.shields.io/badge/Chat-WhatsApp-green?style=flat&logo=whatsapp&color=25D366)](https://wa.me/6283133977213)
-[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=flat&logo=dropbox&color=007EE5)](https://www.dropbox.com/scl/fi/5o8pj950nypjtsdph4p2b/CV-PROFESIONAL-FATIN-TSANI.pdf?rlkey=c2lq77ud2112ho77pfme2q5op&st=sbjq4k7x&dl=1) 
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=flat&logo=dropbox&color=007EE5)](https://www.dropbox.com/scl/fi/5o8pj950nypjtsdph4p2b/CV-PROFESIONAL-FATIN-TSANI.pdf?rlkey=c2lq77ud2112ho77pfme2q5op&st=sbjq4k7x&dl=0) 
 [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=flat&logo=dropbox&color=007EE5)](https://www.dropbox.com/scl/fi/o8f3fwgam633w7cewrokh/My-Certificate.pdf?rlkey=mh5e8pdh0f4qho09wi6kas0ie&st=hcmsdjwk&dl=0)
 
 
